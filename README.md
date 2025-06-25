@@ -2,7 +2,7 @@
 
 ## Overview
 
-Project Equipment Lab Manager is a Java-based application developed using Apache NetBeans IDE. The primary objective of this project is to streamline and manage lab equipment efficiently. The application leverages an Oracle Database for robust data storage and utilizes JDBC for seamless connectivity between the Java application and the database.
+Equipment Lab Manager is a Java-based application developed using Apache NetBeans IDE. The primary objective of this project is to streamline and manage lab equipment efficiently. The application leverages an Oracle Database for robust data storage and utilizes JDBC for seamless connectivity between the Java application and the database.
 
 ## Features
 
